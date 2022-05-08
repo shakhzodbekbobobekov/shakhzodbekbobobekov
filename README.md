@@ -5,6 +5,6 @@
 
 
 <code> <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="27px" > </code>
-<code> <img src="https://hminteractive.io/wp-content/uploads/2016/02/Boostrap-Logo.png" width="27px" > </code>
+<code> <img src="https://hminteractive.io/wp-content/uploads/2016/02/Boostrap-Logo.png" width="40px" > </code>
 <code> <img src="https://miro.medium.com/max/512/1*YWazhGyGmNs6K3HZE7lS7Q.png" width="27px" > </code>
 
