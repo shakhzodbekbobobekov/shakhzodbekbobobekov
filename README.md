@@ -13,6 +13,7 @@
 
 <br />
 
-- 🚩📍&nbsp; Current location: /Samarkand, Fergena/, Uzbekistan 
-- 🚩📍&nbsp; Education || Bachelor: Fergana Polytechnic Institute || 2019-2023 
+- 📍&nbsp; Current location: Samarkand || Fergena, Uzbekistan 
+- <br />
+- 📍&nbsp; Education || Bachelor: Fergana Polytechnic Institute || 2019-2023 
 
