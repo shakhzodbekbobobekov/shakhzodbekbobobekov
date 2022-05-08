@@ -3,4 +3,4 @@
 
 <code> <img src="https://www.pngitem.com/pimgs/m/340-3406677_css-logo-black-and-white-png-transparent-png.png" width="27px" > </code>
 
-<code> <img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png" width="27px" > </code>
+<code> <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="27px" > </code>
