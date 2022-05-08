@@ -10,9 +10,9 @@
 
 
 <code> <img src="https://www.blockknowledge.co/wp-content/uploads/2021/05/Js.png" width="27px" > </code>
-16<code> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="27px" > </code>
+<code> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="27px" > </code>
 
-22<code> <img src="https://bradysnuggs.net/img/Redux.png" width="27px" > </code>
+<code> <img src="https://bradysnuggs.net/img/Redux.png" width="27px" > </code>
 
 25<code> <img src="" width="27px" > </code>
 26<code> <img src="" width="27px" > </code>
