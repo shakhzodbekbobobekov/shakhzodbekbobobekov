@@ -1,10 +1,10 @@
 ### Hi, I'm Shakhzodbek Bobobekov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" >
 <code> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="27px" > </code>
 
-<code> <img src="https://www.yolearnonline.com/img/css.png" width="27px" > </code>
+<code> <img src="https://www.yolearnonline.com/img/css.png" width="27px" border-radius="50px"  > </code>
 
 
-<code> <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="27px" > </code>
+<code> <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="27px" border-radius="100px"  > </code>
 <code> <img src="https://hminteractive.io/wp-content/uploads/2016/02/Boostrap-Logo.png" width="40px" > </code>
 <code> <img src="https://icons-for-free.com/download-icon-bxl+bootstrap-1325051931304956666_512.png" width="27px" > </code>
 
@@ -18,7 +18,7 @@
 6<code> <img src="https://adwebsoft.com/images/Skils/file-formats.png" width="27px" > </code>
 7<code> <img src="https://friconix.com/png/fi-snsuxx-js.png" width="27px" border-radius="50px" > </code>
 
-8<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="27px" border-radius="50px" > </code>
+8<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="27px" > </code>
 9<code> <img src="https://www.kindpng.com/picc/m/269-2691611_atoms-react-logo-high-svg-hd-png-download.png" width="27px" > </code>
 10<code> <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" width="27px" > </code>
 11<code> <img src="https://devstickers.com/assets/img/pro/uhro.png" width="27px" > </code>
