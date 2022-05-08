@@ -14,7 +14,7 @@
 
 <code> <img src="https://bradysnuggs.net/img/Redux.png" width="27px" > </code>
 
-25<code> <img src="" width="27px" > </code>
+25<code> <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" width="27px" > </code>
 26<code> <img src="" width="27px" > </code>
 27<code> <img src="" width="27px" > </code>
 28<code> <img src="" width="27px" > </code>
