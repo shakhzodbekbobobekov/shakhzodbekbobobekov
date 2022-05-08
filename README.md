@@ -5,6 +5,6 @@
 
 
 <code> <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="27px" > </code>
-<code> <img src="https://iconape.com/wp-content/png_logo_vector/bootstrap.png" width="27px" > </code>
+<code> <img src="https://www.seekpng.com/png/small/142-1424682_bootstrap-icon-logo-black-and-white-white-background.png" width="27px" > </code>
 <code> <img src="https://miro.medium.com/max/512/1*YWazhGyGmNs6K3HZE7lS7Q.png" width="27px" > </code>
 
