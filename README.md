@@ -11,7 +11,6 @@ Languages and tools I work with:
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="30px"></span>
 
 <br />
-
 - 📍&nbsp; Current location: Samarkand || Fergena, Uzbekistan
 - 📝&nbsp; Education || Bachelor: Fergana Polytechnic Institute || 2019-2023 
 - 📜&nbsp; Ask me about anything, I am happy to help
