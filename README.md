@@ -16,9 +16,9 @@
 4<code> <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-15.jpg" width="27px" > </code>
 5<code> <img src="https://cdn-icons-png.flaticon.com/512/460/460771.png?w=360" width="27px" > </code>
 6<code> <img src="https://adwebsoft.com/images/Skils/file-formats.png" width="27px" > </code>
-7<code> <img src="https://friconix.com/png/fi-snsuxx-js.png" width="27px" > </code>
+7<code> <img src="https://friconix.com/png/fi-snsuxx-js.png" width="27px" border-radius: 50px > </code>
 
-8<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="27px" > </code>
+8<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="27px" border-radius: 50px > </code>
 9<code> <img src="https://www.kindpng.com/picc/m/269-2691611_atoms-react-logo-high-svg-hd-png-download.png" width="27px" > </code>
 10<code> <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" width="27px" > </code>
 11<code> <img src="https://devstickers.com/assets/img/pro/uhro.png" width="27px" > </code>
