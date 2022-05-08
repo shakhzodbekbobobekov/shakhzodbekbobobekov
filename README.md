@@ -3,5 +3,7 @@
 
 <code> <img src="https://www.yolearnonline.com/img/css.png" width="27px" > </code>
 
-https://cdn.iconscout.com/icon/free/png-256/css-124-624920.png
+
+<code> <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="27px" > </code>
+<code> <img src="https://miro.medium.com/max/512/1*YWazhGyGmNs6K3HZE7lS7Q.png" width="27px" > </code>
 <code> <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="27px" > </code>
