@@ -14,6 +14,10 @@
 <br />
 
 - 📍&nbsp; Current location: Samarkand || Fergena, Uzbekistan 
-- <br />
-- 📍&nbsp; Education || Bachelor: Fergana Polytechnic Institute || 2019-2023 
+ <br />
+- 📝&nbsp; Education || Bachelor: Fergana Polytechnic Institute || 2019-2023 
+<br />
+- 📜&nbsp; Ask me about anything, I am happy to help
+<br />
+- 📩&nbsp; How to reach me: [@shakhzodbekbobobekov](https://t.me/Shaxzodbek_Bobobekov)
 
