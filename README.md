@@ -10,13 +10,8 @@
 
 
 <code> <img src="https://www.blockknowledge.co/wp-content/uploads/2021/05/Js.png" width="27px" > </code>
-
-28...<code> <img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg" width="27px" > </code>
-
+<code> <img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg" width="27px" > </code>
 <code> <img src="https://bradysnuggs.net/img/Redux.png" width="27px" > </code>
-
-
-
-29<code> <img src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" height="47px" > 
+<code> <img src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" width="30px" > 
 
 
