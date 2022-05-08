@@ -1,5 +1,4 @@
 ### Hi, I'm Shakhzodbek Bobobekov || Frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" >
-
 <br />
 Languages and tools I work with:
 <br />
