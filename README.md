@@ -10,6 +10,7 @@ Languages and tools I work with:
 <span><img src="https://bradysnuggs.net/img/Redux.png" width="27px"></span>&nbsp;
 <span><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="30px"></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="30px"></span>
+
 <br />
 
 - 📍&nbsp; Current location: Samarkand || Fergena, Uzbekistan
