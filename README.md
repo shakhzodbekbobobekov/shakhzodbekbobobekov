@@ -12,11 +12,9 @@ Languages and tools I work with:
 <span><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="30px"></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="30px"></span>
 <br />
-- 📍&nbsp; Current location: Samarkand || Fergena, Uzbekistan 
-- <br />
+
+- 📍&nbsp; Current location: Samarkand || Fergena, Uzbekistan
 - 📝&nbsp; Education || Bachelor: Fergana Polytechnic Institute || 2019-2023 
-- <br />
 - 📜&nbsp; Ask me about anything, I am happy to help
-- <br />
 - 📩&nbsp; How to reach me: [@shakhzodbekbobobekov](https://t.me/Shaxzodbek_Bobobekov)
 
