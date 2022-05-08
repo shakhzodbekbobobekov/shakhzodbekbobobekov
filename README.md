@@ -10,17 +10,18 @@
 
 
 <code> <img src="https://www.blockknowledge.co/wp-content/uploads/2021/05/Js.png" width="27px" > </code>
-<code> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="27px" > </code>
+
+28...<code> <img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg" width="27px" > </code>
 
 <code> <img src="https://bradysnuggs.net/img/Redux.png" width="27px" > </code>
 
 25<code> <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" width="27px" > </code>
 26<code> <img src="https://miro.medium.com/max/1000/1*KDMx1YspSrBcFJG-NDZgDg.png" width="27px" > </code>
 27<code> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="27px" > </code>
-28<code> <img src="" width="27px" > </code>
+28<code> <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif" width="27px" > </code>
 29<code> <img src="" width="27px" > </code>
 30<code> <img src="" width="27px" > </code>
 28.<code> <img src="" width="27px" > </code>
 28..<code> <img src="" width="27px" > </code>
-28...<code> <img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg" width="27px" > </code>
+
 
