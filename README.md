@@ -19,9 +19,9 @@
 26<code> <img src="https://miro.medium.com/max/1000/1*KDMx1YspSrBcFJG-NDZgDg.png" width="27px" > </code>
 27<code> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="27px" > </code>
 28<code> <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif" width="27px" > </code>
-29<code> <img src="" width="27px" > </code>
-30<code> <img src="" width="27px" > </code>
-28.<code> <img src="" width="27px" > </code>
-28..<code> <img src="" width="27px" > </code>
+29<code> <img src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" width="47px" > </code>
+30<code> <img src="https://www.logolynx.com/images/logolynx/a9/a92dbe0173c08eadadd9ea72f8959efe.png" width="27px" > </code>
+28.<code> <img src="https://iconape.com/wp-content/png_logo_vector/next-js.png" width="27px" > </code>
+28..<code> <img src="https://iconsplace.com/wp-content/uploads/_icons/000000/256/png/nfc-n-icon-256.png" width="27px" > </code>
 
 
