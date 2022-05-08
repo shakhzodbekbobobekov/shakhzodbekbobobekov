@@ -11,11 +11,7 @@
 
 <code> <img src="https://www.blockknowledge.co/wp-content/uploads/2021/05/Js.png" width="27px" > </code>
 16<code> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="27px" > </code>
-17<code> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="27px" > </code>
-18<code> <img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="27px" > </code>
-19<code> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="27px" > </code>
-20<code> <img src="https://w7.pngwing.com/pngs/791/922/png-transparent-react-javascript-library-redux-user-interface-tesseract-logo-symmetry-nodejs-thumbnail.png" width="27px" > </code>
-21<code> <img src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo-black-and-white.png" width="27px" > </code>
+
 22<code> <img src="https://bradysnuggs.net/img/Redux.png" width="27px" > </code>
 
 25<code> <img src="" width="27px" > </code>
