@@ -18,12 +18,8 @@ Languages and tools I work with:
 - 📩&nbsp; How to reach me: [@shakhzodbekbobobekov](https://t.me/Shaxzodbek_Bobobekov)
 
 ### Areas of Interest:
-<!-- ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp; -->
-<!-- ![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YuldoshevUtkirbek}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakhzodbekbobobekov}/count.svg" /></p> 
 <br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
