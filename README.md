@@ -24,10 +24,6 @@ Languages and tools I work with:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakhzodbekbobobekov}/count.svg" /></p> 
 <br></div>
 
-
- <div align="center">  
-   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
-   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/> 
-</div> 
+<a href="#">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzodbekbobobekov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</a>
