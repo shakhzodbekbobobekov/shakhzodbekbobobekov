@@ -1,4 +1,4 @@
-### Hi, I'm Shakhzodbek Bobobekov || Frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
+### Hi, I'm Shakhzodbek Bobobekov || Frontend Developer 
 Languages and tools I work with:
 <br />
 <span><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="27px" ></span>&nbsp;
