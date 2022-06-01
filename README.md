@@ -1,7 +1,7 @@
-### Hi, I'm Shakhzodbek Bobobekov || Frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" >
+### Hi, I'm Shakhzodbek Bobobekov || Frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 Languages and tools I work with:
 <br />
-<span><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="25px" ></span>&nbsp;
+<span><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="27px" ></span>&nbsp;
 <span><img src="https://www.yolearnonline.com/img/css.png" width="27px" ></span>&nbsp;
 <span><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="27px"></span>&nbsp;
 <span><img src="https://camo.githubusercontent.com/1a33aca11a0fc203add4b6a800e5c4d3c7a65f365951a1df4fd17a819a304961/68747470733a2f2f69636f6e2d6c6962726172792e636f6d2f696d616765732f622d69636f6e2f622d69636f6e2d302e6a7067" width="27px" ></span>&nbsp;
