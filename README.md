@@ -12,7 +12,7 @@ Languages and tools I work with:
 <span><img src="https://camo.githubusercontent.com/9b63aa91531c1bd3b4c437036b66b497403a64b6989958c65654afbfde1e3535/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6772617068716c2d6c6f676f2d626c61636b2d616e642d77686974652e706e67" width="30px"></span>
 <br />
 
-- 📍&nbsp; Current location: Samarkand || Fergena, Uzbekistan
+- 📍&nbsp; Current location: Samarkand || Tashkent, Uzbekistan
 - 📝&nbsp; Education || Bachelor: Fergana Polytechnic Institute || 2019-2023 
 - 📜&nbsp; Ask me about anything, I am happy to help
 - 📩&nbsp; How to reach me: [@shakhzodbekbobobekov](https://t.me/Shaxzodbek_Bobobekov)
